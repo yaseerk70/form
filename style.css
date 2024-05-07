@@ -1,0 +1,19 @@
+body{
+   background-image: url(ky/download.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.form{
+background-color: white;
+}
+
+.enter{
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+.exit{
+    text-align: center;
+   background-color: #fff;
+   width: 50%;
+}
