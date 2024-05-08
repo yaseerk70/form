@@ -1,0 +1,37 @@
+.text{
+    border: 2px solid #000;
+}
+
+
+.exit1{
+    background-color:yellowgreen;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 1px;
+}
+
+.exit2{
+    background-color:rgb(0, 195, 255);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 50px;
+    bottom: 200px;
+
+}
+
+.exit3{
+    background-color:rgb(167, 145, 219);
+    width: 100px;
+    height: 100px;
+
+}
+
+.exit4{
+    background-image: url(ky/instagram-logo-2023-10-aec33ccbc0e4482dd31ec4a6b0b72bce.avif);
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+}
